@@ -4,4 +4,6 @@
 	branch = master
 [submodule "third_party/benchmark"]
 	path = third_party/benchmark
-	url = https://github.com/google/benchmark.git
+#	url = https://github.com/google/benchmark.git
+	url = https://github.com/liuluyang530/benchmark-gpt.git
+	branch = e776aa0
